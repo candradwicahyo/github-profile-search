@@ -15,7 +15,7 @@ api github dibatasi sebanyak 60 kali dalam 1 jam. jadi, jika disaat mencari sebu
 
 ### lainnya
 
-* [githuh api](https://api.github.com)
+* [github api](https://api.github.com)
 * [fontawesome](https://fontawesome.com)
 * handphone
 * code editor (Acode)
@@ -25,6 +25,6 @@ api github dibatasi sebanyak 60 kali dalam 1 jam. jadi, jika disaat mencari sebu
 
 ![image](https://github.com/candradwicahyo/github-profile-search/blob/master/preview.jpg)
 
-[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/github.profile-search)
+[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/github-profile-search)
 
 > dibuat oleh **candra dwi cahyo**
